@@ -3,7 +3,7 @@
 AWS Secrets Manager のデモ環境ができあがります。
 
 # Diagram
-
+![Diagram-SecretsManagerDemo](https://user-images.githubusercontent.com/147642/99356505-9d848500-28ed-11eb-8596-b09ef6f0c548.png)
 
 # Requirement
 
